@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 github: 
   project_tagline: “I have $X, what should I do?”
   is_project_page: false
+  another_url: https://m1.finance/J7_iBzUQVGEA
 google_analytics: UA-125899912-1
 plugins:
   - jemoji
