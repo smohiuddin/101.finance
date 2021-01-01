@@ -20,7 +20,7 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 * :arrow_lower_right: Secondary: $1000
 
 ### :key: Keys to Investing
-1. Decide your Islamic principles and stick with them.
+1. Decide your principles and stick with them.
 2. Keep it simple and to what you know.
 3. Long term rather than short term.
 
@@ -29,7 +29,7 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 ### What should I invest in the stock market?
 
-> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/5HfjWvK8u4sZ){:target="_blank"}.<br>
+> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/J7_iBzUQVGEA){:target="_blank"}.<br>
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
@@ -81,32 +81,19 @@ You can also individually open a Roth IRA but there are heavy limitations in ter
 ### Education Savings Account (ESA)
 ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $95K for single, $190K for joint filers.
 
-We recommend opening an account with [Saturna](https://www.saturna.com/individual/esa/education-savings-accounts){:target="_blank"} and investing 50/50 in Amana Income (AMANX) and Amana Growth (AMAGX). We highly recommend setting up automatic monthly contributions once you setup the account. 
-
-
-### Buying a home
-- [UIF](http://www.myuif.com){:target="_blank"}
-- [Guidance](https://www.guidanceresidential.com){:target="_blank"}
-- [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
-
-### Zakat
-- [Zakat Calculator](https://zaytuna.edu/ramadan-2020/zakat){:target="_blank"}
 
 ### Wills and Estate Planning
-- [Islamic Inheritance](https://islamicinheritance.com/free-templates-vault/){:target="_blank"}
-- [MyWassiyah](https://www.mywassiyah.com/){:target="_blank"}
+I highly recommend to setup a will and living trust as still as possible. 
+- [What is a living trust?](https://www.daveramsey.com/blog/what-is-a-living-trust)
 
-### Student Loans
-- [A Continuous Charity](http://acceducate.org){:target="_blank"}
 
 ### More questions or need advice?
-Please email [me](mailto:info@muslim.finance). Note: I am not a financial advisor. Seek professional consultation as needed. 
-
+Please email [me](mailto:info@101.finance). Note: I am not a financial advisor. Seek professional consultation as needed. 
 
 ---
 Note: Any investment is speculative. 
 <br>
-[Feedback?](mailto:info@muslim.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}
+[Feedback?](mailto:info@101.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}
 <br>
 <a href="https://twitter.com/SafeerInvests?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SafeerInvests</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
