@@ -29,21 +29,15 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 ### What should I invest in the stock market?
 
-> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/J7_iBzUQVGEA){:target="_blank"}.<br>
+If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/J7_iBzUQVGEA){:target="_blank"}.<br>
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 75% of QQQ and filtered out the noncompliant stocks (based on Zoya)
 - A few handpicked stocks across the technology sector that make up the remaining 25%.
 
-Additionally, I recommend:
-- [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
-- [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
 
 If you have a Fidelity 401K, see the 401K section on how you can invest in these there.
-
-[Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
-
 
 *Should I buy individual stocks?*
 
@@ -83,7 +77,7 @@ ESA accounts allow you to save for your children's education expenses. Once put 
 
 
 ### Wills and Estate Planning
-I highly recommend to setup a will and living trust as still as possible. 
+I highly recommend to setup a will and living trust as soon as possible. 
 - [What is a living trust?](https://www.daveramsey.com/blog/what-is-a-living-trust)
 
 
