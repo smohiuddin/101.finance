@@ -27,6 +27,9 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 > Few things matter more in investing than understanding your own time horizon and not being persuaded by the price actions caused by people with different time horizons.
 <br>- Morgan Housel, [The Reasonable Formation of Unreasonable Things](https://www.collaborativefund.com/uploads/Collaborative%20Fund%20Bubbles.pdf){:target="_blank"} (a must short read)
 
+### Understanding Money
+I recommend reading [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681){:target="_blank"} by Morgan Housel. It is critical to understanding the role of your behavior towards money and investing. 
+
 ### What should I invest in the stock market?
 
 If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/J7_iBzUQVGEA){:target="_blank"}.<br>
