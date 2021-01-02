@@ -33,11 +33,8 @@ If you want to see what I invest in, I’ve made my [portfolio public](https://m
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
-- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 75% of QQQ and filtered out the noncompliant stocks (based on Zoya)
-- A few handpicked stocks across the technology sector that make up the remaining 25%.
-
-
-If you have a Fidelity 401K, see the 401K section on how you can invest in these there.
+- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 65% of QQQ and filtered out a few. 
+- A few handpicked stocks across the technology sector that make up the remaining 35%.
 
 *Should I buy individual stocks?*
 
@@ -45,15 +42,15 @@ Index and mutual funds have historically performed better than a selected basket
 
 *When should I invest?*
 
-There will always be ups and downs - nobody can time the market. We recommend setting up automatic monthly contributions for majority of your investing budget. 
+There will always be ups and downs - nobody can time the market. I recommend setting up automatic monthly contributions for majority of your investing budget. 
 
 ### Balancing Investments
 Many focus only on the stock market when thinking about investing. Consider investing in other avenues such as real estate. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
 
 ### 401K
-A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund.  This will be the most sharia-compliant and long-term performing. If you can choose any stocks, see our recommended basket of stocks. 
+A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund. If you can choose any stocks, see our recommended basket of stocks. 
 
-Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2020 (there are exceptions if you are over 50). 
+Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2021 (there are exceptions if you are over 50). 
 
 <details>
 <summary>Is your 401K with Fidelity?</summary>
@@ -69,11 +66,11 @@ There are two types of 401k: Traditional (pre-tax contributions) and Roth (post-
 <br><br>
 If your employer offers both, consider splitting contributions to both. 
 <br><br>
-You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
+You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($208K married, $140K single adjusted gross income).
 </details>
 
 ### Education Savings Account (ESA)
-ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $95K for single, $190K for joint filers.
+ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $110K for single, $220K for joint filers.
 
 
 ### Wills and Estate Planning
@@ -87,7 +84,7 @@ Please email [me](mailto:info@101.finance). Note: I am not a financial advisor. 
 ---
 Note: Any investment is speculative. 
 <br>
-[Feedback?](mailto:info@101.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}
+[Feedback?](mailto:info@101.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}.
 <br>
-<a href="https://twitter.com/SafeerInvests?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SafeerInvests</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

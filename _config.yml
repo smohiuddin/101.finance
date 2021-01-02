@@ -1,8 +1,9 @@
 theme: jekyll-theme-cayman
+page:
+  title: baby
 github: 
+  project_title: 101.finance
   project_tagline: “I have $X, what should I do?”
-  is_project_page: false
-  another_url: https://m1.finance/J7_iBzUQVGEA
-google_analytics: UA-125899912-1
+google_analytics: G-VC610E7YDM
 plugins:
   - jemoji
