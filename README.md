@@ -36,6 +36,8 @@ My basket of stocks contains:
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 65% of QQQ and filtered out a few. 
 - A few handpicked stocks across the technology sector that make up the remaining 35%.
 
+Technology stocks have and will continue to perform well in the next few decades. These companies are fast growing due to the digital landscape and have much better profit margins. Some of the stocks I have filtered out in QQQ have large debt or are financial companies which I prefer to avoid. This basket of stocks is halal, see more details on the sister site [muslim.finance](https://muslim.finance){:target="_blank"}. 
+
 *Should I buy individual stocks?*
 
 Index and mutual funds have historically performed better than a selected basket of stocks. It is highly recommended to invest most of your money in these types of funds.
@@ -87,6 +89,5 @@ Please email [me](mailto:info@101.finance). Note: I am not a financial advisor. 
 Note: Any investment is speculative. 
 <br>
 [Feedback?](mailto:info@101.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}.
-<br>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
