@@ -75,11 +75,13 @@ You can also individually open a Roth IRA but there are heavy limitations in ter
 ### Education Savings Account (ESA)
 ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $95K for single, $190K for joint filers.
 
+### Donations
+
+I recommend using [CharityVest](http://charityvest.org){:target="_blank"} to streamline your donations. CharityVest also makes it easy to donate stocks which allows you to take a deduction on the full market value and avoid capital gain taxes if you were to sell it. 
 
 ### Wills and Estate Planning
 I highly recommend to setup a will and living trust as soon as possible. 
 - [What is a living trust?](https://www.daveramsey.com/blog/what-is-a-living-trust)
-
 
 ### More questions or need advice?
 Please email [me](mailto:info@101.finance). Note: I am not a financial advisor. Seek professional consultation as needed. 
