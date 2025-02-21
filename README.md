@@ -1,8 +1,8 @@
 ### :key: Keys to Financial Peace
 
-1. Decide a budget. Understand where your money is going. Too much focus goes to investing instead of budgeting/saving.
+1. Decide a budget. Understand where your money is going. Focus on budgeting/saving, THEN investing.
 2. Save 20% of your salary each month.
-3. Prioritize eliminating debt vs investing. 
+3. Prioritize eliminating debt before investing. 
 4. Contribute to 401K. Most employers match and there are tax advantages. 
 5. Set goals for what you need (house, tuition).
 6. Invest. See our investment strategy. 
@@ -32,8 +32,8 @@ I recommend reading [The Psychology of Money](https://www.amazon.com/Psychology-
 
 ### What should I invest in the stock market?
 
-If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/gaua-1u2MbQ7){:target="_blank"}.<br>
-You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
+If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/HHzBmLDxgpLE){:target="_blank"}.<br>
+You can invest alongside with me. If you end up doing so, please subscribe to the [newsletter](https://101finance.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 65% of QQQ and filtered out a few. 
@@ -59,7 +59,7 @@ I believe Bitcoin is important in the new digital world because the trust in gov
 ### 401K
 A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund. If you can choose any stocks, see our recommended basket of stocks. 
 
-Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2021 (there are exceptions if you are over 50). 
+Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $23,500 per year for 2025 (there are exceptions if you are over 50). 
 
 <details>
 <summary>Is your 401K with Fidelity?</summary>
@@ -75,7 +75,7 @@ There are two types of 401k: Traditional (pre-tax contributions) and Roth (post-
 <br><br>
 If your employer offers both, consider splitting contributions to both. 
 <br><br>
-You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($208K married, $140K single adjusted gross income).
+You can also individually open a Roth IRA but there could be heavy limitations in terms of contribution amounts and how much you earn ($236K married, $150K single adjusted gross income in 2025). If you are limited by the income, use the backdoor Roth IRA, where you contribute to a traditional IRA and then immediately roll it over to a Roth.
 </details>
 
 ### Education Savings Account (ESA)
